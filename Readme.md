@@ -7,7 +7,7 @@ Ce projet est une simulation de tournoi basée sur la version enrichie du jeu "P
 
 Cette version introduit deux nouveaux signes – **Spock** et **Lézard** – pour rendre le jeu plus complexe et amusant. Le tournoi se joue selon des règles précises, et les données de chaque joueur sont préétablies.
 
-> 🎯 Ce projet a été réalisé dans le cadre d’un **entretien technique pour le poste Génération AI chez [datascientist.fr](https://datascientist.fr)**.
+> 🎯 Ce projet a été réalisé dans le cadre d’un **entretien technique pour le stage de développeur Python en IA générative au sein de l'équipe tech de [datascientist.fr](https://datascientist.fr)**.
 
 ---
 
