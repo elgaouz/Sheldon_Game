@@ -82,4 +82,4 @@ Contient la liste des matchs du premier round.
 ## 📤 Sortie attendue
 
 ### 📢 Console
-Afficher le nom du vainqueur comme suit : TOURNAMENT WINNER : <Nom Du Gagnant>
+Afficher le nom du vainqueur comme suit : TOURNAMENT WINNER : Nom Du Gagnant
